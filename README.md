@@ -1,5 +1,5 @@
 # Genshin Datasets For SVC/SVS/TTS
-
+### 3.7版本更新中，敬请期待
 ### 注意事项
 
 1. **本仓库的语音数据集的所有权均归 [米哈游](https://www.mihoyo.com/) 所有。**
