@@ -17,6 +17,7 @@
 |      名称      |                             仓库                             |
 | :------------: | :----------------------------------------------------------: |
 |      Vits      |             https://github.com/CjangCjengh/vits              |
+|     Sovits     | [https://github.com/svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) |
 | Fish Diffusion |         https://github.com/fishaudio/fish-diffusion          |
 |    DDSP-SVC    |              https://github.com/yxlllc/DDSP-SVC              |
 |    Diff-SVC    |            https://github.com/prophesier/diff-svc            |
