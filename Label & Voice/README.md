@@ -16,4 +16,4 @@
 |    语音    |                           下载地址                           |
 | :--------: | :----------------------------------------------------------: |
 | OneDrive | [点我下载](https://aihobbyist-my.sharepoint.com/:f:/g/personal/erythrocyte_org_ai-lab_top/EsSWfoWn0ftGuFV_IwdVXb8BY7-iL8ozoyNsB3PwqS5yRA) |
-| 自建Alist | [点我下载](https://pan.zhjlfx.cn/Genshin%20Datasets) |
+| Alist(国内用户推荐，已挂载阿里云盘) | [点我下载](https://pan.zhjlfx.cn/Genshin%20Datasets) |
