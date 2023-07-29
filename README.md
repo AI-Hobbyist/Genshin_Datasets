@@ -9,7 +9,7 @@
 
 | 文件夹名称 |                             说明                             |
 | :--------: | :----------------------------------------------------------: |
-|   Index & Scripts   | 原神语音的索引文件和分类脚本，用于分类。AI Hobbyist Version 索引由 [Jared-02](https://github.com/Jared-02) 提供的脚本生成 |
+|   Index & Script   | 原神语音的索引文件和分类脚本，用于分类。AI Hobbyist Version 索引由 [Jared-02](https://github.com/Jared-02) 提供的脚本生成 |
 |   Label & Voice    |       标注文件 & 语音 下载地址，目前已更新到3.8       |
 
 ### 数据集可训练的模型（欢迎补充）
