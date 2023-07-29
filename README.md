@@ -9,8 +9,8 @@
 
 | 文件夹名称 |                             说明                             |
 | :--------: | :----------------------------------------------------------: |
-|   Index    | 原神语音的索引文件，用于分类。索引由 [Jared-02](https://github.com/Jared-02) 提供的脚本生成 |
-|   Label & Voice    |        标注文件 & 语音 下载地址，目前已更新到3.7       |
+|   Index & Scripts   | 原神语音的索引文件和分类脚本，用于分类。AI Hobbyist Version 索引由 [Jared-02](https://github.com/Jared-02) 提供的脚本生成 |
+|   Label & Voice    |       标注文件 & 语音 下载地址，目前已更新到3.8       |
 
 ### 数据集可训练的模型（欢迎补充）
 
@@ -28,8 +28,8 @@
 
 |      联系方式      |                            传送门                            |
 | :----------------: | :----------------------------------------------------------: |
-| 二次元AI爱好者交流群 | [点击链接加入群聊【二次元AI爱好者交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
-|   炼丹师交流社区   |                   https://www.ai-lab.top/                    |
+| AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
+|   AIGC Resource   | [https://ai.ai-hobbyist.org/](https://ai.ai-hobbyist.org/) |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
 
