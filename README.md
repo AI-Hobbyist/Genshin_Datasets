@@ -1,8 +1,5 @@
 # Genshin Datasets For SVC/SVS/TTS
 ### 许可协议
-CC Attribution-NonCommercial-ShareAlike 4.0 International
-To add a CC BY-NC-SA License to your project, just add the following to your README.md. You should also copy the corresponding license text file and rename it to LICENSE.
-
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
