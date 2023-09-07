@@ -31,4 +31,5 @@
 |   AIGC Resource   | [https://ai.ai-hobbyist.org/](https://ai.ai-hobbyist.org/) |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
+|        数据集专栏        |                    [https://www.bilibili.com/read/cv24180458](https://www.bilibili.com/read/cv24180458)                     |
 
