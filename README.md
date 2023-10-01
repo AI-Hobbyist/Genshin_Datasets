@@ -16,6 +16,7 @@
 |      名称      |                             仓库                             |
 | :------------: | :----------------------------------------------------------: |
 |      Vits      |             https://github.com/CjangCjengh/vits              |
+|Bert-Vits	| https://github.com/fishaudio/Bert-VITS2  |
 |     Sovits     | [https://github.com/svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) |
 | Fish Diffusion |         https://github.com/fishaudio/fish-diffusion          |
 |    DDSP-SVC    |              https://github.com/yxlllc/DDSP-SVC              |
@@ -31,4 +32,5 @@
 |   AIGC Resource   | [https://ai.ai-hobbyist.org/](https://ai.ai-hobbyist.org/) |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
+|        数据集专栏        |                    [https://www.bilibili.com/read/cv24180458](https://www.bilibili.com/read/cv24180458)                     |
 
