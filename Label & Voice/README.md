@@ -13,10 +13,24 @@
 | 2023.06.14 | 更新 alist 挂载源为阿里云盘 |
 | 2023.06.18 | 已对白术和长生的语音进行分类修正，更换回之前的挂载源 |
 | 2023.10.01 | 更新原神4.1中文分角色语音包 |
+| 2023.10.22 | 更新原神4.1全角色日语，英语完整包 |
+| 2023.10.23 | 更新星穹铁道中日英全角色完整包 |
 
-### 下载地址
+### 完整包下载地址
 
-|    语音    |                           下载地址                           |
+|    语言    |                           下载地址                           |
 | :--------: | :----------------------------------------------------------: |
-| OneDrive | [点我下载](https://aihobbyist-my.sharepoint.com/:f:/g/personal/erythrocyte_org_ai-lab_top/EsSWfoWn0ftGuFV_IwdVXb8BY7-iL8ozoyNsB3PwqS5yRA) |
-| Alist(强烈推荐) | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets) |
+| 中文 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 日语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 英语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 韩语 | 待更新 |
+
+### 角色分包下载地址
+
+| 语言 | 下载地址 |
+| :--: | :------: |
+| 中文 |  待更新  |
+| 日语 |  待更新  |
+| 英语 |  待更新  |
+| 韩语 |  待更新  |
+
