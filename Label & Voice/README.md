@@ -7,29 +7,23 @@
 
 ### 更新日志
 
-|    时间    |  更新内容  |
-| :--------: | :--------: |
-| 2023.06.09 | 第一版发布 |
-| 2023.06.14 | 更新 alist 挂载源为阿里云盘 |
-| 2023.06.18 | 已对白术和长生的语音进行分类修正，更换回之前的挂载源 |
-| 2023.10.01 | 更新原神4.1中文分角色语音包 |
-| 2023.10.22 | 更新原神4.1全角色中文、日语，英语完整包 |
+详见：[https://www.bilibili.com/read/cv24180458](https://www.bilibili.com/read/cv24180458)
 
 ### 完整包下载地址
 
 |    语言    |                           下载地址                           |
 | :--------: | :----------------------------------------------------------: |
-| 中文 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
-| 日语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
-| 英语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 中文 | [点我下载](https://dl.ai-hobbyist.org/AI-Hobbyist/Genshin_Dataset/Genshin4.2_CN.zip) |
+| 日语 | [点我下载](https://dl.ai-hobbyist.org/AI-Hobbyist/Genshin_Dataset/Genshin4.2_JP.zipi) |
+| 英语 | [点我下载](https://dl.ai-hobbyist.org/AI-Hobbyist/Genshin_Dataset/Genshin4.2_EN.zip) |
 | 韩语 | 待更新 |
 
 ### 角色分包下载地址
 
-| 语言 | 下载地址 |
-| :--: | :------: |
-| 中文 |  待更新  |
-| 日语 |  待更新  |
-| 英语 |  待更新  |
-| 韩语 |  待更新  |
+| 语言 |                           下载地址                           |
+| :--: | :----------------------------------------------------------: |
+| 中文 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
+| 日语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
+| 英语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
+| 韩语 |                            待更新                            |
 
