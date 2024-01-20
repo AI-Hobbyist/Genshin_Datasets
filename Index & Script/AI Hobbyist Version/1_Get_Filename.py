@@ -60,7 +60,7 @@ langcode, dest_lang = get_path_by_lang(language)
 
 files = glob(os.path.join(source, "*.wav"))
 indexfile = Path(f'./Indexs/{ver}/{langcode}.json').read_text(encoding="utf-8")
-data = json.load(indexfile)
+data = json.loads(indexfile)
 for wav in tqdm(files):
     file = str(wav).replace(".wav", "")
     file_hash = os.path.basename(file)

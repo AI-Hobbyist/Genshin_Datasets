@@ -80,7 +80,7 @@ def ren_player(player,lang):
     return p_name
 
 indexfile = Path(f'./Indexs/{ver}/{langcode}.json').read_text(encoding="utf-8")
-data = json.load(indexfile)
+data = json.loads(indexfile)
 for k in tqdm(data.keys()):
     try:
         text = data.get(k).get('voiceContent')
