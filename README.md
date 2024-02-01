@@ -8,8 +8,8 @@
 
 | 文件夹名称 |                             说明                             |
 | :--------: | :----------------------------------------------------------: |
-|   Index & Script   | 原神语音的索引文件和分类脚本，用于分类。AI Hobbyist Version 索引由 [Jared-02](https://github.com/Jared-02) 提供的脚本生成 |
-|   Label & Voice    |       标注文件 & 语音 下载地址，目前已更新到3.8       |
+|   索引 & 脚本   | 原神语音的索引+索引生成+分类脚本，传送门：[点我传送](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts) |
+|   Label & Voice    |       标注文件 & 语音 下载地址，目前已更新到4.3       |
 
 ### 数据集可训练的模型（欢迎补充）
 
@@ -22,6 +22,7 @@
 |    DDSP-SVC    |              https://github.com/yxlllc/DDSP-SVC              |
 |    Diff-SVC    |            https://github.com/prophesier/diff-svc            |
 |      RVC       | https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI |
+| GPT-Sovits | [https://github.com/RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
 |   DiffSinger   |            https://github.com/openvpi/DiffSinger             |
 
 ### 联系方式
