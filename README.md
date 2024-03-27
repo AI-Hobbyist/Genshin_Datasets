@@ -3,31 +3,29 @@
 1. **本仓库的语音数据集的所有权均归 [米哈游](https://www.mihoyo.com/) 所有。**
 2. **数据集仅供二次创作&模型训练，不得用于任何商业用途，不得用本仓库数据集训练的模型制作违反法律法规的内容，不得二次配布。如被发现滥用，将停止公开！**
 3. **如果训练模型的时候用到了本仓库的数据集，欢迎各位在作品简介里面注明本仓库地址。**
+4. **如果急需新版数据集，在新版数据集上传前可以通过分类脚本和索引自行分类。分类脚本获取：[点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts)**
 
 ### 更新日志
 
-|    日期    |                更新内容                |
-| :--------: | :------------------------------------: |
-| 2024.03.01 | 更新原神 4.4中日英韩全角色语音分角色包 |
-| 2024.03.26 |       更新原神4.5全角色语音索引        |
+|    日期    |               更新内容                |
+| :--------: | :-----------------------------------: |
+| 2024.03.01 | 更新原神4.4中日英韩全角色语音分角色包 |
+| 2024.03.26 |       更新原神4.5全角色语音索引       |
 
-### 当前版本
+### 当前游戏版本
 
-|    类型    |                             版本                             |
-| :--------: | :----------------------------------------------------------: |
-|  语音索引  |                             4.5                              |
-| 语音数据集 | **中文：** 4.4<br />**日语：** 4.4<br />**英语：** 4.4<br />**韩语：**  4.4 |
-
-
+|                | 中文 | 日语 | 英语 | 韩语 |
+| :------------: | :--: | :--: | :--: | :--: |
+|  **语音索引**  | 4.5  | 4.5  | 4.5  | 4.5  |
+| **语音数据集** | 4.4  | 4.4  | 4.4  | 4.4  |
 
 ### 数据集下载
 
-| 语言 |                             分角色包                             |                             完整包                             |                             索引                             |                             分类脚本                             |
+|  |                             中文                             |                             日语                             |                             英语                             |                             韩语                             |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   中文   | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | 待更新 | [点我下载](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/CHS.json) | [点我传送](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/tree/main/AI%20Hobbyist%20Version) |
-|   日语    |       [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese)       |       待更新       |       [点我下载](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/JP.json)       |       [点我传送](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/tree/main/AI%20Hobbyist%20Version)       |
-| 英语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English) | 待更新 | [点我下载](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/EN.json) | [点我传送](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/tree/main/AI%20Hobbyist%20Version) |
-| 韩语 | [点我下载](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean) | 待更新 | [点我下载](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/KR.json) | [点我传送](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/tree/main/AI%20Hobbyist%20Version) |
+|   **分角色包**   | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
+|   **完整包**   |       待更新       |       待更新       |       待更新       |                            待更新                            |
+| **语音索引** | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/CHS.json) | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/JP.json) | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/EN.json) | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.5/KR.json) |
 
 ### 数据集常用训练项目（欢迎补充）
 
