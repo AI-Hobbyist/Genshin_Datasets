@@ -12,6 +12,7 @@
 | 2024.05.19 |    更新原神4.6中日英韩全角色语音索引    |
 | 2024.05.29 |       更新原神4.6中文分角色语音包       |
 | 2024.06.01 | 更新原神4.6日语，英语，韩语分角色语音包 |
+| 2024.06.02 |   更新原神4.6中日英韩全角色完整语音包   |
 
 ### 当前游戏版本
 
@@ -19,14 +20,14 @@
 | :----------------------: | :--: | :--: | :--: | :--: |
 |       **语音索引**       | 4.6  | 4.6  | 4.6  | 4.6  |
 | **语音数据集**(分角色包) | 4.6  | 4.6  | 4.6  | 4.6  |
-|  **语音数据集**(完整包)  | 4.5  | 4.5  | 4.5  | 4.5  |
+|  **语音数据集**(完整包)  | 4.6  | 4.6  | 4.6  | 4.6  |
 
 ### 数据集下载
 
 |  |                             中文                             |                             日语                             |                             英语                             |                             韩语                             |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   **分角色包**   | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
-|   **完整包**   |       [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.5_CN.7z)       |       [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.5_JP.7z)       |       [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.5_EN.7z)       |                            [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.5_KR.7z)                            |
+|   **完整包**   |       [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.6_CN.7z)       |       [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.6_JP.7z)       |       [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.6_EN.7z)       |                            [点我获取](https://pan.ai-hobbyist.org/d/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/Genshin4.6_KR.7z)                            |
 | **语音索引** | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.6/CHS.json) | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.6/JP.json) | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.6/EN.json) | [点我获取](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.6/KR.json) |
 
 ### 数据集常用训练项目（欢迎补充）
