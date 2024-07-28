@@ -1,5 +1,5 @@
 # Genshin Datasets For SVC/SVS/TTS
-[**English**](./README.md) | [**简体中文**](./README_CN.md)
+**English** | [**简体中文**](./README_CN.md)
 
 ### Notes
 
@@ -13,21 +13,23 @@
 |    Date    |                           Updates                            |
 | :--------: | :----------------------------------------------------------: |
 | 2024.07.15 | Updated Genshin Impact 4.8 voice index for all characters in Chinese, Japanese, English, and Korean |
+| 2024.07.21 | Updated Genshin Impact 4.8 Character Voice Pack in Chinese, Japanese, English, and Korean. Chinese Complete Pack |
+| 2024.07.21 | Updated Genshin Impact 4.8 Complete Pack in Japanese, English, and Korean. |
 
 ### Current Game Version
 
 |                                    | Chinese | Japanese | English | Korean |
 | :--------------------------------: | :-----: | :------: | :-----: | :----: |
 |          **Voice Index**           |   4.8   |   4.8    |   4.8   |  4.8   |
-| **Voice Dataset** (Character Pack) |   4.7   |   4.7    |   4.7   |  4.7   |
-| **Voice Dataset** (Complete Pack)  |   4.7   |   4.7    |   4.7   |  4.7   |
+| **Voice Dataset** (Character Pack) |   4.8   |   4.8    |   4.8   |  4.8   |
+| **Voice Dataset** (Complete Pack)  |   4.8   |   4.8    |   4.8   |  4.8   |
 
 ### Dataset Download
 
 |                    |                           Chinese                            |                           Japanese                           |                           English                            |                            Korean                            |
 | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Character Pack** | [Click to get](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [Click to get](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [Click to get](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [Click to get](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
-| **Complete Pack**  | [Click to get](https://dl.ai-hobbyist.com/ms/datasets/aihobbyist/Genshin_Dataset/Genshin4.7_CN.7z) | [Click to get](https://dl.ai-hobbyist.com/ms/datasets/aihobbyist/Genshin_Dataset/Genshin4.7_JP.7z) | [Click to get](https://dl.ai-hobbyist.com/ms/datasets/aihobbyist/Genshin_Dataset/Genshin4.7_EN.7z) | [Click to get](https://dl.ai-hobbyist.com/ms/datasets/aihobbyist/Genshin_Dataset/Genshin4.7_KR.7z) |
+| **Complete Pack**  | [Click to get](https://https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin4.8_CN.7z) | [Click to get](https://https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin4.8_JP.7z) | [Click to get](https://https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin4.8_EN.7z) | [Click to get](https://https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin4.8_KR.7z) |
 |  **Voice Index**   | [Click to get](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.8/CHS.json) | [Click to get](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.8/JP.json) | [Click to get](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.8/EN.json) | [Click to get](https://github.com/AI-Hobbyist/Genshin_Voice_Sorting_Scripts/raw/main/AI%20Hobbyist%20Version/Indexs/4.8/KR.json) |
 
 ### Commonly Used Training Projects for the Dataset (Contributions Welcome)
