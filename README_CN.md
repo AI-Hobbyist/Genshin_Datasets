@@ -49,7 +49,7 @@
 |      联系方式      |                            传送门                            |
 | :----------------: | :----------------------------------------------------------: |
 | AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
-| AI Hobbyist QQ频道 | [点击链接加入QQ频道【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) |
+| Discord | [https://discord.gg/hfZxZ53R](https://discord.gg/hfZxZ53R) |
 |  AI Hobbyist社区   | [https://www.ai-hobbyist.org/](https://www.ai-hobbyist.com/) |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |

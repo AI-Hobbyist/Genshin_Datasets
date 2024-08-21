@@ -51,7 +51,7 @@
 |     Contact Method     |                            Links                             |
 | :--------------------: | :----------------------------------------------------------: |
 |  AI Hobbyist QQ Group  | [Click the link to join the chat group 【AI Hobbyist QQ Group】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
-| AI Hobbyist QQ Channel | [Click the link to join the QQ channel 【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) |
+| Discord | [https://discord.gg/hfZxZ53R](https://discord.gg/hfZxZ53R) |
 | AI Hobbyist Community  | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |           QQ           |                          2544390577                          |
 |         Email          |                    tsuneki_hikari@qq.com                     |
