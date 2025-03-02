@@ -9,8 +9,8 @@
 
 |                          | 中文 | 日语 | 英语 | 韩语 |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **语音数据集**(分角色包) | 5.3  | 5.3  | 5.3  | 5.3  |
-|  **语音数据集**(完整包)  | 5.3  | 5.3  | 5.3  | 5.3  |
+| **语音数据集**(分角色包) | 5.4  | 5.4  | 5.4  | 5.4  |
+|  **语音数据集**(完整包)  | 5.4  | 5.4  | 5.4  | 5.4  |
 
 ## 数据集下载
 ### 分角色包
@@ -29,29 +29,29 @@
 ### 完整包
 >#### 汉语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.3_CN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_CN.7z
 >```
 
 >#### 日语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.3_JP.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_JP.7z
 >```
 
 >#### 英语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.3_EN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_EN.7z
 >```
 
 >#### 韩语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.3_KR.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_KR.7z
 >```
 
 ## 更新日志
 
 |    日期    |                 更新内容                  |
 | :--------: | :---------------------------------------: |
-| 2025.01.05 | 更新原神5.3中日英韩分角色和完整语音包|
+| 2025.03.02 | 更新原神5.4中日英韩分角色和完整语音包|
 
 
 ## 联系方式
