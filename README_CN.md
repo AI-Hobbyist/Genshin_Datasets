@@ -58,7 +58,8 @@
 
 |      联系方式      |                            传送门                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](https://qm.qq.com/q/Ii0OLQTF2U) |
+| AI Hobbyist 交流群1群（即将满员） | [点击链接加入群聊【AI Hobbyist 交流群1群】](https://qm.qq.com/q/Ii0OLQTF2U) |
+| AI Hobbyist 交流群2群（推荐） | [点击链接加入群聊【AI Hobbyist 交流群2群】](https://qm.qq.com/q/H5KD6AYRSU) |
 | AI Hibbyist QQ频道 | [点击链接加入QQ频道【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) |
 |   AI Hobbyist社区   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |         QQ         |                          2544390577                          |

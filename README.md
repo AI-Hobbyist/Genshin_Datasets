@@ -57,7 +57,8 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 
 |      Contact Method	      |                            Link                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI Hobbyist QQ Group | [AI Hobbyist QQ Group](https://qm.qq.com/q/Ii0OLQTF2U) |
+| AI Hobbyist QQ Group 1 (Will Full)| [AI Hobbyist QQ Group 1](https://qm.qq.com/q/Ii0OLQTF2U) |
+| AI Hobbyist QQ Group 2 (Recommand)| [AI Hobbyist QQ Group 2](https://qm.qq.com/q/H5KD6AYRSU) |
 | AI Hobbyist Discord | [AI Hobbyist Discord】](https://discord.gg/eGzeMgYSPD) |
 |   AI Hobbyist Community	   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |         QQ Number	         |                          2544390577                          |
