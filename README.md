@@ -13,19 +13,9 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 |  **Full Pack**  | 5.4  | 5.4  | 5.4  | 5.4  |
 
 ## Download
-### Character Pack	
->#### Chinese
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E4%B8%AD%E6%96%87](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E4%B8%AD%E6%96%87)
+### Character Pack
 
->#### Japanese
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E6%97%A5%E8%AF%AD](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E6%97%A5%E8%AF%AD)
-
->#### English
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD)
-
->#### Korean
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD)
-
+**All Characters:** [https://res.acgnai.top](https://res.acgnai.top)
 ### Full Pack
 >#### Chinese
 > ```bash 

@@ -14,17 +14,8 @@
 
 ## 数据集下载
 ### 分角色包
->#### 汉语语音包
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E4%B8%AD%E6%96%87](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E4%B8%AD%E6%96%87)
 
->#### 日语语音包
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E6%97%A5%E8%AF%AD](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E6%97%A5%E8%AF%AD)
-
->#### 英语语音包
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E8%8B%B1%E8%AF%AD)
-
->#### 韩语语音包
->[https://pan.ai-hobbyist.com/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD](https://pan.ai-hobbyist.com/Genshin%20Datasets/%E9%9F%A9%E8%AF%AD)
+**所有角色:** [https://res.acgnai.top](https://res.acgnai.top)
 
 ### 完整包
 >#### 汉语语音包
