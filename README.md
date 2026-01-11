@@ -9,8 +9,8 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 
 |                          | Chinese | Japanese | English | Korean |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **Character Pack** | 5.4  | 5.4  | 5.4  | 5.4  |
-|  **Full Pack**  | 5.4  | 5.4  | 5.4  | 5.4  |
+| **Character Pack** | 6.2  | 6.2  | 6.2  | 6.2  |
+|  **Full Pack**  | 6.2  | 6.2  | 6.2  | 6.2  |
 
 ## Download
 ### Character Pack
@@ -19,36 +19,35 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 ### Full Pack
 >#### Chinese
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_CN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin6.2_CN.7z
 >```
 
 >#### Japanese
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_JP.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin6.2_JP.7z
 >```
 
 >#### English
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_EN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin6.2_EN.7z
 >```
 
 >#### Korean
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin5.4_KR.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/Genshin_Dataset/resolve/master/Genshin6.2_KR.7z
 >```
 ## Updates
 
 |    Date    |                 Update                  |
 | :--------: | :---------------------------------------: |
-| 2025.03.02 | Genshin 5.4 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
+| 2026.01.11 | Genshin 6.2 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
 
 
 ## Contact us
 
 |      Contact Method	      |                            Link                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI Hobbyist QQ Group 1 (Will Full)| [AI Hobbyist QQ Group 1](https://qm.qq.com/q/Ii0OLQTF2U) |
-| AI Hobbyist QQ Group 2 (Recommand)| [AI Hobbyist QQ Group 2](https://qm.qq.com/q/H5KD6AYRSU) |
+| AI Hobbyist QQ Group| [AI Hobbyist](https://qm.qq.com/q/H5KD6AYRSU) |
 | AI Hobbyist Discord | [AI Hobbyist Discord](https://discord.gg/eGzeMgYSPD) |
 |   AI Hobbyist Community	   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |         QQ Number	         |                          2544390577                          |
